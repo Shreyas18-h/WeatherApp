@@ -112,3 +112,15 @@ margin-top: -6px;
     font-size: 14px;
     margin-top: 10px;
 }
+
+
+@media  screen and (max-width:500px){
+
+.search input{
+    padding: 5px 12px;
+}
+
+.search button {
+    border-radius: 50%;
+}
+}
