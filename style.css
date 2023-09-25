@@ -34,7 +34,7 @@
     color: #555;
     padding: 10px 25px;
     height: 60px;
-    border-radius: 50px;
+    border-radius: 30px;
     flex: 1;
     margin-right: 16px;
     font-size: 18px;
@@ -95,7 +95,7 @@ col{
 }
 
 .humidity, .wind{
-font-size: 26px;
+font-size: 25px;
 margin-top: -6px;
 }
 
