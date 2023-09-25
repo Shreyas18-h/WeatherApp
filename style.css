@@ -32,7 +32,7 @@
     outline: 0;
     background: #ebfffc;
     color: #555;
-    padding: 0.625rem 1.5rem;
+    padding: 10px 25px;
     height: 60px;
     border-radius: 50px;
     flex: 1;
@@ -45,7 +45,7 @@
     outline: 0;
     background: #ebfffc;
     border-radius: 80%;
-    width: 3.7rem;
+    width: 60px;
     height: 60px;
     cursor: pointer;
 
