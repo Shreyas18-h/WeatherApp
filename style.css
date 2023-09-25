@@ -32,7 +32,7 @@
     outline: 0;
     background: #ebfffc;
     color: #555;
-    padding: 10px 25px;
+    padding: 0.625rem 1.5rem;
     height: 60px;
     border-radius: 50px;
     flex: 1;
@@ -45,7 +45,7 @@
     outline: 0;
     background: #ebfffc;
     border-radius: 80%;
-    width: 60px;
+    width: 3.7rem;
     height: 60px;
     cursor: pointer;
 
@@ -81,7 +81,7 @@
 
 }
 
-col{
+.col{
 
     display: flex;
     align-items: center;
@@ -111,19 +111,4 @@ margin-top: -6px;
     margin-left: 10px;
     font-size: 14px;
     margin-top: 10px;
-}
-
-
-@media  screen and (max-width:335px){
-
-.search input{
-    padding: 5px 8px;
-    margin-right: 9px;
-    padding-right: 10px;
-
-}
-
-.search button {
-    border-radius: 20%;
-}
 }
