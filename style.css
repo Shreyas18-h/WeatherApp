@@ -113,7 +113,7 @@ margin-top: -6px;
     margin-top: 10px;
 }
 
-@media (max-width:400px){
+@media (max-width:390px){
 
     .card{
 
@@ -136,7 +136,7 @@ margin-top: -6px;
         padding: 10px 25px;
         height: 60px;
         border-radius: 50px;
-        flex: 1;
+        /* flex: 1; */
         margin-right: 16px;
         font-size: 18px;
     }
