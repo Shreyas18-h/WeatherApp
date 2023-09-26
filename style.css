@@ -9,7 +9,7 @@
 .card{
 
     width: 100%;
-    max-width: 4710px;
+    max-width: 600px;
     background: linear-gradient(135deg, #00feba, #5b548a);
     color: #fff;
     margin: 100px auto 0;
@@ -153,15 +153,15 @@ margin-top: -6px;
         outline: 0;
         background: #ebfffc;
         border-radius: 50%;
-        width: 120px;
-        height: 55px;
+        width: 70px;
+        height: 60px;
         cursor: pointer;
     
     }
 
     .search button img{
 
-        width: 19px;
+        width: 16px;
         
     }
 
