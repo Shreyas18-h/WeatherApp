@@ -152,9 +152,9 @@ margin-top: -6px;
         border: 0;
         outline: 0;
         background: #ebfffc;
-        border-radius: 10%;
-        width: 60px;
-        height: 60px;
+        border-radius: 50%;
+        width: 100px;
+        height: 55px;
         cursor: pointer;
     
     }
